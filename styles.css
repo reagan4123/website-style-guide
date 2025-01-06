@@ -54,9 +54,11 @@ td {
 }
 #v5 {
     background-color: #0066ff;
+    color: white;
 }
 #v6 {
     background-color: #9900ff;
+    color: white;
 }
 #s1 {
     background-color: #ff99bb;
@@ -69,9 +71,11 @@ td {
 }
 #s4 {
     background-color: #006633;
+    color: white;
 }
 #s5 {
     background-color: #006699;
+    color: white;
 }
 #s6 {
     background-color: #cf9fdf;
@@ -259,19 +263,9 @@ ul.breadcrumb {
     font-size: 1.5rem;
     font-weight: bold;
 }
-@media only screen and (max-width: 480px) {
-  table {
-    display: flex;  
-    flex-wrap: nowrap;
-    justify-content: center;
-  }
-
-  tr {
-    display: flex;
-    flex-direction: column;
-  }
-
-  td {
-    white-space: nowrap;
-  }
+@media only screen and (max-width: 480px) and (orientation: portrait) {
+    tr{
+      font-size-adjust: smaller;
+      width: auto;
+    }
 }
