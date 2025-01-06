@@ -275,13 +275,13 @@ ul.breadcrumb {
     tr{
       display: table-row;
       padding: 1px;
-      font-size-adjust: smaller;
+      font-size: 1em;
       font-weight: bold;
     }
     td {
       display: table-cell;
       padding: 1px;
-      font-size: 12px;
+      font-size: 0.75em;
       font-weight: bold;
       margin: auto;
     }
