@@ -268,4 +268,6 @@ ul.breadcrumb {
       font-size-adjust: smaller;
       width: auto;
     }
+    td {
+      width: fit-content;
 }
