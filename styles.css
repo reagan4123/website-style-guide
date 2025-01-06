@@ -264,6 +264,14 @@ ul.breadcrumb {
     font-weight: bold;
 }
 @media only screen and (max-width: 480px) and (orientation: portrait) {
+    .container {
+       width: 90%;
+        height: auto;
+    }
+    .color-container {
+        width: 90%;
+        height: auto;
+    }
     tr{
       display: table-row;
       padding: 1px;
@@ -276,5 +284,13 @@ ul.breadcrumb {
       font-size-adjust: smaller;
       font-weight: bold;
       margin-auto;
+    }
+    .font-container {
+        width: 90%;
+        height: auto;
+    }
+    .text-container{
+        width: 90%;
+        height: auto;
     }
 }
