@@ -264,12 +264,17 @@ ul.breadcrumb {
     font-weight: bold;
 }
 @media only screen and (max-width: 480px) and (orientation: portrait) {
-    }
     tr{
+      display: table-row;
+      padding: 1px;
       font-size-adjust: smaller;
-      width: auto;
+      font-weight: bold;
     }
     td {
-      width: 25%;
+      display: table-cell;
+      padding: 1px;
+      font-size-adjust: smaller;
+      font-weight: bold;
+      margin-auto;
     }
 }
