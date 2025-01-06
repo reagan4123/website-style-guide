@@ -281,9 +281,9 @@ ul.breadcrumb {
     td {
       display: table-cell;
       padding: 1px;
-      font-size-adjust: smaller;
+      font-size: 12px;
       font-weight: bold;
-      margin-auto;
+      margin: auto;
     }
     .font-container {
         width: 90%;
