@@ -271,12 +271,13 @@ ul.breadcrumb {
     .color-container {
         width: 90%;
         height: auto;
-        padding: 5%;
+        padding: 0 auto;
     }
     tr{
       display: table-row;
-      padding: 1px auto;
-      font-size: 1em;
+      padding: 0 auto;
+      margin: 0 auto;
+      font-size: 1rem;
       font-weight: bold;
     }
     td {
