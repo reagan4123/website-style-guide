@@ -263,7 +263,7 @@ ul.breadcrumb {
     font-size: 1.5rem;
     font-weight: bold;
 }
-@media only screen and (max-width: 480px) and (orientation: portrait) {
+@media only screen and (min-width: 480px) and (max-width: 780px) and (orientation: portrait) {
     .container {
        width: 90%;
         height: auto;
