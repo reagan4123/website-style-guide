@@ -275,6 +275,7 @@ ul.breadcrumb {
     }
     tr{
       display: table-row;
+      width: 80%;
       padding: 0 auto;
       margin: 0 auto;
       font-size: 1rem;
@@ -282,6 +283,7 @@ ul.breadcrumb {
     }
     td {
       display: table-cell;
+      width: 12%;
       padding: 1px;
       font-size: 0.75rem;
       font-weight: bold;
