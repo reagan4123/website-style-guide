@@ -1,5 +1,5 @@
 # website-style-guide
-Codecademy Project aiming to create a website style guide. I collected colors and fonts that I would want to refer to in future projects. I then compiled the information in an HTML file and CSS file to practice and display the information. I will like continue to add to this project as I continue learning. 
+Codecademy Project aiming to create a website style guide. I collected colors and fonts that I would want to refer to in future projects. I then compiled the information in an HTML file and CSS file to practice and display the information. I will continue to add to this project as I continue learning. 
 
 # Systems Used
 - Phoenix Code: very useful for previewing my coding output while working
