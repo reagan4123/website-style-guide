@@ -427,5 +427,8 @@ ul.breadcrumb {
       font-family: 'Scope One', Serif;
       background-color: #e4b4b4;
     }
+    tr, td {
+        transform: rotate(-90%);
+    }
         
 }
