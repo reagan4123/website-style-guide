@@ -423,7 +423,7 @@ ul.breadcrumb {
 }
 @media only screen and (max-width: 480px) and (orientation: 480px) {
     html, body {
-      font-size: initial;
+      font-size: 10px;
       font-family: 'Scope One', Serif;
       background-color: #e4b4b4;
     }
