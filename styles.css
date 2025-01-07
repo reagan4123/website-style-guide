@@ -26,7 +26,7 @@ table {
     width: 80%;
     height: auto;
     padding: 3%;
-    margin: auto;
+    margin: 0 auto;
     font-size: 1.5rem;
 } 
 td {
@@ -271,17 +271,18 @@ ul.breadcrumb {
     .color-container {
         width: 90%;
         height: auto;
+        padding: 5%;
     }
     tr{
       display: table-row;
-      padding: 1px;
+      padding: 1px auto;
       font-size: 1em;
       font-weight: bold;
     }
     td {
       display: table-cell;
       padding: 1px;
-      font-size: 0.75em;
+      font-size: 0.75rem;
       font-weight: bold;
       margin: auto;
     }
