@@ -265,6 +265,8 @@ ul.breadcrumb {
     width: 80%;
 }
 .breadcrumb li a{
+    display: flex;
+    justify-content: center;
     text-decoration: none;
     font-family: 'Quicksand' sans-serif;
     font-size: 1rem;
