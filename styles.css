@@ -17,12 +17,14 @@ html, body {
 }
 /* color palette css */
 .color-container {
+    display: flex;
     border: 3px solid black;
     display: inline-block;
     width: 80%;
     margin: 10%;
 }
 table {
+    display: flex;
     width: 80%;
     max-width: 100%;
     height: auto%;
