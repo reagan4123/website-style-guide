@@ -1,15 +1,15 @@
 html, body {
     font-size: 12px;
-    font-family: 'Scope One', Serif;
+    font-family: 'Quicksand' sans-serif;
     background-color: #e4b4b4;
 }
 .title {
-    font-family: 'Scope One';
+    font-family: 'Scope One' serif;
     font-size: 3rem;
     text-align: center;
 }
 .container {
-    font-family: 'Scope One', sans-serif;
+    font-family: 'Scope One' serif;
     font-size: 1.25rem;
     background-color: white;
     width: 90%;
@@ -39,18 +39,18 @@ th {
     padding: 0 auto;
     margin: 0 auto;
 }
-td{
+td {
     display: flex;
     flex-direction: column;
     display: inline-block;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
-    font-family:'Scope One', serif;
-    font-size: 1.125rem;
-    padding: 3%;
+    font-family:'Scope One' serif;
+    font-size: 1rem;
+    padding: 4%;
     margin: 2%;
-    width:24%;
+    width: 24%;
     height: auto;
 }
 #v1 {
@@ -64,12 +64,15 @@ td{
 }
 #v4 {
     background-color: #33cc33;
+    color: white;
 }
 #v5 {
     background-color: #0066ff;  
+    color: white;
 }
 #v6 {
-    background-color: #9900ff;   
+    background-color: #9900ff; 
+    color: white;
 }
 #s1 {
     background-color: #ff99bb;
@@ -102,6 +105,7 @@ td{
 }
 #n4 {
     background-color: #669999;
+    color: white;
 }
 #n5 {
     background-color: #d9d9d9;
@@ -122,6 +126,7 @@ td{
     font-family: 'Scope One', sans-serif;
     font-weight: bold;
     font-size: 1.5rem;
+    text-decoration: underline;
 }
 .scope-bold {
     font-weight: bold;
@@ -140,6 +145,7 @@ td{
 .font-panel-quick{
     font-weight: bold;
     font-size: 1.5rem;
+    text-decoration: underline;
 }
 .quick-bold {
     font-weight: bold;
@@ -159,6 +165,7 @@ td{
     font-family: 'Dancing Scrip', cursive;
     font-weight: bold;
     font-size: 1.5rem;
+    text-decoration: underline;
 }
 .dancing-bold {
     font-weight: bold;
@@ -183,7 +190,7 @@ td{
     margin: 10%;
 }
 .text-panel ul{
-    padding-left: 40%;
+    padding-left: 30%;
 }
 .text-panel li{
     font-family: Quicksand;
