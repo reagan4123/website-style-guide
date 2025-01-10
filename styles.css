@@ -37,226 +37,76 @@ th {
     padding: 0 auto;
     margin: 0 auto;
 }
-#v1 {
-    background-color: #ff3399;
+td{
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
+    font-family:'Scope One', serif;
+    font-size: 1.125rem;
     padding: 2%;
-    margin: 1%;
-    width:12%;
+    margin: 2%;
+    width:24%;
     height: auto;
+}
+#v1 {
+    background-color: #ff3399;
 }
 #v2{
     background-color: #ff6600;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #v3 {
     background-color: #ffff66;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #v4 {
     background-color: #33cc33;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #v5 {
-    background-color: #0066ff;
-    color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;    
+    background-color: #0066ff;  
 }
 #v6 {
-    background-color: #9900ff;
-    color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;    
+    background-color: #9900ff;   
 }
 #s1 {
     background-color: #ff99bb;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #s2 {
     background-color: #ffc299;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #s3 {
     background-color: #cc9900;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #s4 {
     background-color: #006633;
     color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #s5 {
     background-color: #006699;
     color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #s6 {
     background-color: #cf9fdf;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n1 {
     background-color: #fff;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n2 {
     background-color: #e4b4b4;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n3 {
     background-color: #ebd9c6;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n4 {
     background-color: #669999;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n5 {
     background-color: #d9d9d9;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 #n6 {
     background-color: #000;
     color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    text-align: center;
-    font-family: Quicksand, sans-serif;
-    font-size: 1rem;
-    padding: 2%;
-    margin: 1%;
-    width:12%;
-    height: auto;
 }
 /* font panel css */
 .font-container{
