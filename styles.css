@@ -43,6 +43,7 @@ td {
     display: flex;
     flex-direction: column;
     display: inline-block;
+    justify-content: center;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
@@ -64,7 +65,6 @@ td {
 }
 #v4 {
     background-color: #33cc33;
-    color: white;
 }
 #v5 {
     background-color: #0066ff;  
