@@ -37,6 +37,7 @@ td {
     text-align: center;
     font-family:'Scope One', serif;
     font-size: 1.125rem;
+    font-weight: bold;
     padding: 2%;
     margin: 2%;
     width: 24%;
@@ -56,9 +57,11 @@ td {
 }
 #v5 {
     background-color: #0066ff;
+    color: white;
 }
 #v6 {
     background-color: #9900ff;
+    color: white;
 }
 #s1 {
     background-color: #ff99bb;
@@ -71,9 +74,11 @@ td {
 }
 #s4 {
     background-color: #006633;
+    color: white;
 }
 #s5 {
     background-color: #006699;
+    color: white;
 }
 #s6 {
     background-color: #cf9fdf;
@@ -88,7 +93,8 @@ td {
     background-color: #ebd9c6;
 }
 #n4 {
-    background-color: #669999
+    background-color: #669999;
+    color: white;
 }
 #n5 {
     background-color: #d9d9d9;
