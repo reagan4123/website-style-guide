@@ -42,13 +42,12 @@ td {
     display: flex;
     flex-direction: column;
     display: inline-block;
-    justify-content: center;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
     font-family:'Scope One' serif;
     font-size: 1rem;
-    padding: 3%;
+    padding: 2%;
     margin: 2%;
     width: 26%;
     height: auto;
@@ -265,7 +264,6 @@ ul.breadcrumb {
 }
 .breadcrumb li a{
     display: flex;
-    justify-content: center;
     text-decoration: none;
     font-family: 'Quicksand' sans-serif;
     font-size: 1rem;
