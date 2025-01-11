@@ -30,9 +30,8 @@ table {
     font-size: 1.5rem;
 } 
 td {
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
-    display: inline-block;
     border: 1px solid black;
     border-radius: 5px;
     text-align: center;
@@ -40,7 +39,7 @@ td {
     font-size: 1.125rem;
     padding: 2%;
     margin: 2%;
-    width:24%;
+    width: 24%;
     height: auto;
 }
 #v1 {
@@ -243,7 +242,7 @@ button:visited {
 }
 ul.breadcrumb {
     list-style: none;
-    width: 85%;
+    width: 80%;
 }
 .breadcrumb li a{
     text-decoration: none;
@@ -262,8 +261,4 @@ ul.breadcrumb {
     font-size: 1.5rem;
     font-weight: bold;
 }
-@media only screen and (max-width: 480px), (orientation: portrait) {
-    html {
-        font-size: 10px;
-    }
-}
+
