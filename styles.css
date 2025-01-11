@@ -1,6 +1,5 @@
 html, body {
     font-size: 12px;
-    font-family: 'Scope One', Serif;
     background-color: #e4b4b4;
 }
 .title {
@@ -9,11 +8,11 @@ html, body {
     text-align: center;
 }
 .container {
-    font-family: 'Scope One', sans-serif;
+    font-family: 'Scope One', serif;
     font-size: 1.5rem;
     background-color: white;
     width: 90%;
-    margin: 5%
+    margin: 5%;
 }
 /* color palette css */
 .color-container {
@@ -104,12 +103,12 @@ td {
     color: white;
 }
 /* font panel css */
-.font-container{
+.font-container {
     border: 3px solid black;
     text-align: center;
     display: inline-block;
     width: 80%;
-    margin: 10%
+    margin: 10%;
 }
 .font-panel-scope {
     font-family: 'Scope One', sans-serif;
@@ -130,7 +129,7 @@ td {
     font-family: 'Scope One', sans-serif;
     font-size: 1.25rem;
 }
-.font-panel-quick{
+.font-panel-quick {
     font-weight: bold;
     font-size: 1.5rem;
 }
@@ -175,10 +174,10 @@ td {
     width: 80%;
     margin: 10%;
 }
-.text-panel ul{
+.text-panel ul {
     padding-left: 40%;
 }
-.text-panel li{
+.text-panel li {
     font-family: Quicksand;
     font-size: 1.125rem;
 }
@@ -188,13 +187,13 @@ td {
     font-size: 2.125rem;
     font-weight: 700;
 }
-.text-panel h2{
+.text-panel h2 {
     font-family: 'Quicksand', 'sans-serif';
     text-align: center;
     font-size: 1.75rem;
     font-weight: 600;
 }
-.text-panel p{
+.text-panel p {
     font-family:'Quicksand', 'sans-serif';
     text-align: center;
     font-size: 1.5;
@@ -211,7 +210,7 @@ td {
 .button-container {
     margin: 2%;
 }
-button a{
+button a {
     color: black;
     text-decoration: none;
 }
@@ -224,7 +223,7 @@ button {
     font-weight: 700;
     box-shadow: 4 4 4 4 inset;
 }
-button:hover{
+button:hover {
     background-color: #ebd9c6;
     font-family: Quicksand, sans-serif;
     font-size: 1.125rem;
@@ -250,20 +249,20 @@ ul.breadcrumb {
     list-style: none;
     width: 80%;
 }
-.breadcrumb li a{
+.breadcrumb li a {
     text-decoration: none;
     font-family: 'Quicksand' sans-serif;
     font-size: 1.25rem;
     color: black;
 }
-.breadcrumb li{
+.breadcrumb li {
     display: inline;
 }
-.breadcrumb li+li a:before{
+.breadcrumb li+li a:before {
     content: ">";
     padding: 2%;        
 }
-.breadcrumb li a:hover{
+.breadcrumb li a:hover {
     font-size: 1.5rem;
     font-weight: bold;
 }
